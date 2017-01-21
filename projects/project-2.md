@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/onion.jpg
-title: Vacay
+title: Tor and Anonymity
 permalink: projects/Tor
 date: 2016-12-02
 labels:
