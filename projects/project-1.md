@@ -1,29 +1,28 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-date: 2015
+image: images/squarereader.jpg
+title: Attacking the Square Reader
+permalink: https://github.com/markrcummins/square_reader_research/blob/master/695SquareReaderFinal%20(2).pdf
+date: 2016
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Security
+  - Crytography
+summary: My team researched possible security vulnerabilities within the Square Reader.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/atm.jpg">
+  <img class="ui image" src="../images/emg.jpg">
+  <img class="ui image" src="../images/reader.png">
+  <img class="ui image" src="../images/pineapple.jpg">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Attacking the Square Reader delved into the world of banking and the amount effort put into making transactions secure. It was intersting to understand the history behind the magnetic slip cards and why they needed to transistion to the chip and pin cards. It wasn't enough that we understood the weaknesses of the card reader, we also had to look into the weaknesses of the EMG card design itself. We attempted to exploit it from the hardware and software side.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+We weren't able to find a weakness on the hardware level as we didn't understand the pieces that made the reader. The supplemental pineapple wi-fi device allowed us to experiment in whether or not there were vulnerabilities on the network level. Unfortunately, we weren't able to come up with any conclusive evidence with our research. But my teammate and I learned a lot about the technical aspects of ATMs, credit cards, and card readers, sparking our interest in security. 
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can read my research paper on my [github](https://github.com/markrcummins/square_reader_research/blob/master/695SquareReaderFinal%20(2).pdf).
 
 
 
