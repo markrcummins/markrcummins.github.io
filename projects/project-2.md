@@ -4,7 +4,7 @@ type: project
 image: images/onion.jpg
 title: Tor and Anonymity
 permalink: projects/tor
-date: 2016-12-02
+date: 2016
 labels:
   - Network Anonymity
   - Cryptography
@@ -20,7 +20,6 @@ My research into Tor opened me into the entire field of anonymity. The thing abo
 
 Learning about the Tor project introduced me to a variety of tools made to keep your identity hidden as well as the tools used to expose it. After learning about the non-profit organization that updates Tor and the open source community that helps, I'm very intrested in learning more C and the details of networking so that I can contribute to the Tor project.
 
-Check out my research paper [here](https://github.com/markrcummins/tor_research/blob/master/tor_and_anonymity.pdf).
 
-Check out [Tor](https://www.torproject.org/about/overview.html.en).
+Research paper: <a href="https://github.com/markrcummins/tor_research/blob/master/tor_and_anonymity.pdf"><i class="large github icon"></i>Tor</a>
  
