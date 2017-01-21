@@ -20,5 +20,5 @@ The project was very arduous, as C is very unforgiving. Besides having to fix nu
 
 It was also interesting reading the man pages for the TCP header and the Unix functions that set up the server. The man pages for the TCP header were slightly vague at some times, meaning you could interpret things in different, making your server different that others, which could create complications. I plan on continuing to improve this program over the course of my college career. 
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/markrcummins/networks/tree/master/client_server"><i class="large github icon "></i>networks/client_server</a>
 
