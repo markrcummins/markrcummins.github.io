@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/squarereader.jpg
 title: Attacking the Square Reader
-permalink: https://github.com/markrcummins/square_reader_research/blob/master/695SquareReaderFinal%20(2).pdf
+permalink: projects/squarereader
 date: 2016
 labels:
   - Security
