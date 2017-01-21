@@ -1,24 +1,25 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/onion.jpg
 title: Vacay
-permalink: projects/vacay
-date: 2015
+permalink: projects/Tor
+date: 2016-12-02
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Network Anonymity
+  - Cryptography
+summary: My technical paper going over Tor and the whether or not true anonymity can be reached.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/anon.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+For ICS 451, each group had to research a modern networking topic and write a paper in a way that someone who has never heard of your topic can learn it from your paper.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+My research into Tor opened me into the entire field of anonymity. The thing about anonymity is that it's not about the technical aspect that's important, it's also the philosophical idea of having the right to privacy from your neighbors, strangers, and the government. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Learning about the Tor project introduced me to a variety of tools made to keep your identity hidden as well as the tools used to expose it. After learning about the non-profit organization that updates Tor and the open source community that helps, I'm very intrested in learning more C and the details of networking so that I can contribute to the Tor project.
+
+Check out my research paper [here](https://github.com/markrcummins/tor_research/blob/master/tor_and_anonymity.pdf) .
+Check out [Tor](https://www.torproject.org/about/overview.html.en).
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
