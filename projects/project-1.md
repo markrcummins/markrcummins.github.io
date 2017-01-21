@@ -8,7 +8,7 @@ date: 2016
 labels:
   - Security
   - Crytography
-summary: My team researched possible security vulnerabilities within the Square Reader.
+summary: My team researched possible security vulnerabilities within the Square Reader for chips cards.
 ---
 
 <div class="ui small rounded images">
