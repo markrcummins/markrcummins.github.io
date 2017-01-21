@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/onion.jpg
 title: Tor and Anonymity
-permalink: projects/Tor
+permalink: projects/tor
 date: 2016-12-02
 labels:
   - Network Anonymity
