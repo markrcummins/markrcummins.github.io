@@ -74,7 +74,7 @@
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "3.44",
+      "gpa": "3.5",
       "courses": [
       ]
     }
@@ -90,7 +90,18 @@
       "highlights": [
         "Provided excellent customer service, sat customers in an organized manner, and maintained the restaurant"
       ]
-    },   
+    },
+    {
+      "company": "University of Hawaii Learning Emporium",
+      "position": "Tutor",
+      "website": "http://natsci.manoa.hawaii.edu/learningemporium.php",
+      "startDate": "2017-01-25",
+      "endDate": "Present",
+      "summary": "Responsible for helping ICS students with homework assignments",
+      "highlights": [
+        "Help ICS students with beginner Java coding, algorithms, and introductory discrete mathematics"
+      ]
+    },
   ],
   "volunteer": [
     {
@@ -103,6 +114,27 @@
       "highlights": [
         "Participated in the 2016 National Cyber League competition.",
         ]
+    },
+    {
+      "organization": "Accounting Club",
+      "website": "http://acuhmanoa.com/"
+      "position": "Member",
+      "startDate": "2015-08-24",
+      "endDate": "2015-12-15",
+      "summary": "Developed club camaraderie, learned business etiquette, and networked with accounting students.",
+      "highlights": [
+        "Participated in the PACE innovation breakthrough challenge",
+        ]
+    },
+    {
+      "organization": "Association for Computing Machinery",
+      "website": "http://acmanoa.github.io/"
+      "position": "Member",
+      "startDate": "2016-01-24",
+      "endDate": "Present",
+      "summary": "Networked with fellow ICS students and participated in local ACM events.",
+      "highlights": [
+        "Contributed to making the ICS lounge a place for incoming freshman to connect with upper classmen."
     }
   ],
   "awards": [
@@ -110,7 +142,7 @@
       "title": "My Favorite Teacher Student Award",
       "date": "2012",
       "awarder": "Barnes & Nobles",
-      "summary": "Awarded to those that gave appreciation to their favorite teacher"
+      "summary": "Awarded first place for my essay showing appreciation to my Japanese language teacher, Mr. Masuda."
     },
     {
       "title": "Honorable Mention",
