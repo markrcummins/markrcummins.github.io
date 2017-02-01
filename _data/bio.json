@@ -6,7 +6,7 @@
     "email": "markrc@hawaii.edu",
     "phone": "808-728-4747",
     "website": "https://markrcummins.github.io",
-    "summary": "I'm a student of Information and Computer Science at the University of Hawaii at Manoa. I expect to graduate in Spring, 2018. ",
+    "summary": "I'm a student of Information and Computer Science at the University of Hawaii at Manoa. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "3511 Kilauea Ave",
       "postalCode": "96816",
@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "markcummins",
         "url": "https://www.linkedin.com/in/mark-cummins-ab0ba5132"
-      },
+      }
     ]
   },
   "interests": [
@@ -63,7 +63,7 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
+        "Git/GitHub"
       ]
     }
   ],
@@ -80,6 +80,17 @@
     }
   ],
   "work": [
+      {
+      "company": "University of Hawaii Learning Emporium",
+      "position": "Tutor",
+      "website": "http://natsci.manoa.hawaii.edu/learningemporium.php",
+      "startDate": "2017-01-25",
+      "endDate": "Present",
+      "summary": "Responsible for helping ICS students with homework assignments",
+      "highlights": [
+        "Help ICS students with beginner Java coding, algorithms, and introductory discrete mathematics"
+      ]
+      },
     {
       "company": "California Pizza Kitchen at Kahala",
       "position": "Host/Busser",
@@ -89,17 +100,6 @@
       "summary": "Responsible for maintaining restaurant flow",
       "highlights": [
         "Provide excellent customer service, seat customers in an organized manner, and maintain the restaurant"
-      ]
-    },
-    {
-      "company": "University of Hawaii Learning Emporium",
-      "position": "Tutor",
-      "website": "http://natsci.manoa.hawaii.edu/learningemporium.php",
-      "startDate": "2017-01-25",
-      "endDate": "Present",
-      "summary": "Responsible for helping ICS students with homework assignments",
-      "highlights": [
-        "Help ICS students with beginner Java coding, algorithms, and introductory discrete mathematics"
       ]
     }
   ],
@@ -117,7 +117,7 @@
     },
     {
       "organization": "Accounting Club",
-      "website": "http://acuhmanoa.com/"
+      "website": "http://acuhmanoa.com/",
       "position": "Member",
       "startDate": "2015-08-24",
       "endDate": "2015-12-15",
