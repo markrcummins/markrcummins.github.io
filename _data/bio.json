@@ -116,17 +116,6 @@
         ]
     },
     {
-      "organization": "Accounting Club",
-      "website": "http://acuhmanoa.com/",
-      "position": "Member",
-      "startDate": "2015-08-24",
-      "endDate": "",
-      "summary": "Developed club camaraderie, learned business etiquette, and networked with accounting students",
-      "highlights": [
-        "Participated in the PACE innovation breakthrough challenge"
-        ]
-    },
-    {
       "organization": "Association for Computing Machinery",
       "website": "http://acmanoa.github.io/",
       "position": "Member",
@@ -135,6 +124,17 @@
       "summary": "Networked with fellow ICS students and participated in local ACM events",
       "highlights": [
         "Contributed to making the ICS lounge a place for incoming freshman to connect with upper classmen"
+        ]
+    },
+    {
+      "organization": "Accounting Club",
+      "website": "http://acuhmanoa.com/",
+      "position": "Member",
+      "startDate": "2015-08-24",
+      "endDate": "",
+      "summary": "Developed club camaraderie, learned business etiquette, and networked with accounting students",
+      "highlights": [
+        "Participated in the PACE innovation breakthrough challenge"
         ]
     }
   ],
