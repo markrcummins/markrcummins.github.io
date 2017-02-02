@@ -9,7 +9,7 @@ labels:
   - Network Anonymity
   - Cryptography
   - Privacy
-summary: My technical paper going over Tor and the whether or not true anonymity can be reached.
+summary: My technical paper going over Tor and whether or not true anonymity can be reached.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/anon.jpg">
