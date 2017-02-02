@@ -140,16 +140,16 @@
   ],
   "awards": [
     {
-      "title": "My Favorite Teacher Student Award",
-      "date": "2012",
-      "awarder": "Barnes & Nobles",
-      "summary": "Awarded first place for my essay showing appreciation to my Japanese language teacher, Mr. Masuda"
-    },
-    {
       "title": "Honorable Mention",
       "date": "2015",
       "awarder": "ACM International Collegiate Programming Contest",
       "summary": "Engaged in challenging coding problems against the other universities on the west coast"
+    },
+    {
+      "title": "My Favorite Teacher Student Award",
+      "date": "2012",
+      "awarder": "Barnes & Nobles",
+      "summary": "Awarded first place for my essay showing appreciation to my Japanese language teacher, Mr. Masuda"
     }
   ],
   "references": [
