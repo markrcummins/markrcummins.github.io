@@ -19,24 +19,24 @@ labels:
   
   
   
-  So why do software engineers need to ask questions? There’s two reasons. The first one is to get good answers from other software engineers. Nobody cares about your problem if you’re vague, didn’t exhaust every other resource for an answer, or too lazy to figure it out yourself. But if you show a question that’s niche, you’ve tried it at every angle, and your explanation of the problem is complete and unambiguous, someone who knows the answer or is up for a challenge will be happy to help you. The second reason is because thinking about how to ask your question in a way that’ll increase the chances of getting a useful is helpful in the workplace. Software engineers work in teams with people, and having the ability to ask your teammates a smart question will be very helpful in the long run.
+  So why do software engineers need to ask questions? There’s two reasons. The first one is to get good answers from other software engineers. Nobody cares about your problem if you’re vague, didn’t exhaust every other resource for an answer, or too lazy to figure it out yourself. But if you show a question that’s niche, you’ve tried it at every angle, and your explanation of the problem is complete and unambiguous, someone who knows the answer or is up for a challenge will be happy to help you. The second reason is because thinking about how to ask your question in a way that’ll increase the chances of it getting a useful answer is helpful in the workplace. Software engineers work in teams, and having the ability to ask your teammates a smart question is very helpful.
   
   
  
   
   
-  An example of a smart question was a post on segmentation faults with large arrays in C/C++. The question was very straightforward, showed code, and also included the person stating that it worked on one computer and not on another. The answers explained that the non-working computer experienced a stack overflow. The contributors were also happy to give advice on how to circumvent that. The question and answers are also structured to be useful to those in the future that'll ask the same question. They can simply look up the post and follow the solution, eliminating redundant questions. 
+  An example of a smart question was a post on segmentation faults with large arrays in C/C++. The question was very straightforward, showed code, and included the person stating that it worked on one computer and not on another. The answers explained that the non-working computer experienced a stack overflow. The contributors were also happy to give advice on how to circumvent that. The question and answers are also structured to be useful to those in the future that'll ask the same question. They can simply look up the post and follow the solution, eliminating redundant questions. 
   
   
 
   
   
-  A really dumb question would be one that asks “why is my code not working”. This is bad because it doesn’t describe the problem (a google search of that actual problem won’t bring up this page since the title is generalized). It also shows the laziness of the person asking the question. The person doesn’t care about understanding the solution, they just want to fix their code and probably turn it in. Though some gave an answer helpful to the problem, most told him to read the error message that showed up.
+  A dumb question would be one that asks “why is my code not working”. This is bad because it doesn’t describe the problem (a google search of that actual problem won’t bring up the page since the title is generalized). It also shows the laziness of the person asking the question. The person doesn’t care about understanding the solution, they just want to fix their code and turn it in. Though some gave an answer helpful to the problem, most told him to read the error message that showed up.
   
   
   
   
-  You have to remember one thing on forums, no one has to answer your question, people are volunteering their time to help you. They help to educate the curious and end the misconception within their respective community. Thus, if you’re trying to solve a problem without the answer being spoonfed to you, the wizards will be happy to help you. Most of the time, someone has been in your shoes and has already laid out the solution for you to follow.
+  You have to remember one thing on forums: no one has to answer your question. People are volunteering their time to help you. They help to educate the curious and end the misconception within their respective community. Thus, if you’re trying to solve a problem without the answer being spoonfed to you, the wizards will be happy to help you. Most of the time, someone has been in your shoes and has already laid out the solution for you to follow.
     
 
 
