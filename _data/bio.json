@@ -54,7 +54,11 @@
         "Java",
         "Javascript",
         "Python",
-        "Common Lisp"
+        "Common Lisp",
+        "Prolog",
+        "HTML/CSS",
+        "SQL",
+        "Meteor Framework"
       ]
     },
     {
