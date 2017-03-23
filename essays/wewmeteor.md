@@ -8,7 +8,7 @@ labels:
   - Meteor
 ---
 
-# Pain is Temporary Pride is Forever
+## Pain is Temporary Pride is Forever
 
     Was Meteor hard to learn? Yes. Did I spend many hours (days) doing Digits? Yes. Did I go through the seven stages of grief? Yes. Would I do it again? Absolutely. 
 
