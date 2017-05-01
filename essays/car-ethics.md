@@ -6,7 +6,7 @@ date: 2017-01-20
 labels:
   - Software Engineering
   - Learning
-  - JavaScript
+  - Ethics
 ---
 
 ## Ethics For Software Engineers
