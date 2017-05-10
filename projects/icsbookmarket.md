@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: images/onion.jpg
+image: images/book.jpg
 title: ICS Book Market
-permalink: projects/tor
-date: 2016
+permalink: projects/icsbookmarket
+date: 2017
 labels:
   - Meteor
   - Software Engineering
