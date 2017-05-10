@@ -21,3 +21,4 @@ Our idea was simple, make an application that allows ICS students to buy and sel
 My contribution to the project was creating the pages that allowed a user to post their book up for sale using a schema that held values like price and condition of the book. I also implemented the books for sale having an icon that allowed you to directly email the seller. 
 
 Unfortunately, the application is not fully functional yet, but we do plan to continue working on it. Here's the <a href="https://icsbookmarket.github.io/">Github page</a> documenting the development of the project. 
+
