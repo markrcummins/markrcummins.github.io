@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/book.jpg
+image: images/books.jpg
 title: ICS Book Market
 permalink: projects/icsbookmarket
 date: 2017
