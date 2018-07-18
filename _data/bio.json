@@ -6,9 +6,9 @@
     "email": "markrc@hawaii.edu",
     "phone": "808-728-4747",
     "website": "https://markrcummins.github.io",
-    "summary": "I am a student of Information and Computer Science at the University of Hawaii at Manoa. I expect to graduate in Spring, 2018.",
+    "summary": "I am a recent graduate at the University of Hawaii at Manoa with a degree in Computer Science. ",
     "location": {
-      "address": "3511 Kilauea Ave",
+      "address": " ",
       "postalCode": "96816",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "name": "Network Anonymity",
+      "name": "Automation",
       "keywords": [
       ]
     },
@@ -49,16 +49,14 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
         "Javascript",
+        "PHP",
         "Python",
-        "Common Lisp",
-        "Prolog",
         "HTML/CSS",
-        "SQL",
-        "Meteor Framework"
+        "MYSQL",
+        "VueJS",
+        "Laravel"
       ]
     },
     {
@@ -67,7 +65,8 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub"
+        "Git/GitHub",
+        "ElasticSearch"
       ]
     }
   ],
@@ -77,19 +76,38 @@
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "3.44",
+      "endDate": "2018-05-01",
+      "gpa": "3.49",
       "courses": [
+        "Discrete Mathematics I & II",
+        "Program Structure",
+        "Algorithms",
+        "Data Storage & Retrievel",
+        "AI Programming",
+        "Operating Systems",
+        "Software Engineering I & II"
       ]
     }
   ],
   "work": [
-      {
+    {
+      "company": "TurnoverBnB",
+      "position": "Software Engineering Intern",
+      "website": "https://turnoverbnb.com",
+      "startDate": "2017-08-01",
+      "endDate": "Present",
+      "summary": "Implemented features that improved the look and functionality of the application",
+      "highlights": [
+        "Implemented facebook review and email activation features on the main application",
+        "Developed entire political outreach application allowings users to find and communicate with their elected officials"
+      ]
+      },  
+    {
       "company": "University of Hawaii Learning Emporium",
       "position": "Tutor",
       "website": "http://natsci.manoa.hawaii.edu/learningemporium.php",
       "startDate": "2017-01-25",
-      "endDate": "Present",
+      "endDate": "2018-04-25",
       "summary": "Responsible for helping ICS students with homework assignments",
       "highlights": [
         "Help ICS students with beginner Java coding, algorithms, and introductory discrete mathematics"
@@ -109,11 +127,22 @@
   ],
   "volunteer": [
     {
+      "organization": "Hawaii Student Entrepreneurs",
+      "website": "http://www.hsentrepreneurs.com/",
+      "position": "Member",
+      "startDate": "2017-10-15",
+      "endDate": "2018-05-01",
+      "summary": "Networked with like minded students and progessionals and learned about the various entrepreneurial opportunities in Hawaii and abroad",
+      "highlights": [
+        "Participated in the 2016 National Cyber League competition"
+        ]
+    },
+    {
       "organization": "UHM Grey Hats",
       "website": "https://github.com/uhmgreyhats",
       "position": "Member",
       "startDate": "2016-09-24",
-      "endDate": "Present",
+      "endDate": "2018-05-01",
       "summary": "Developed club camaraderie, learned hacking, and partipated in the local tech community ",
       "highlights": [
         "Participated in the 2016 National Cyber League competition"
@@ -124,7 +153,7 @@
       "website": "http://acmanoa.github.io/",
       "position": "Member",
       "startDate": "2016-01-24",
-      "endDate": "Present",
+      "endDate": "2018-05-01",
       "summary": "Networked with fellow ICS students and participated in local ACM events",
       "highlights": [
         "Contributed to making the ICS lounge a place for incoming freshman to connect with upper classmen"
@@ -135,7 +164,7 @@
       "website": "http://acuhmanoa.com/",
       "position": "Member",
       "startDate": "2015-08-24",
-      "endDate": "",
+      "endDate": "2015-12-10",
       "summary": "Developed club camaraderie, learned business etiquette, and networked with accounting students",
       "highlights": [
         "Participated in the PACE innovation breakthrough challenge"
