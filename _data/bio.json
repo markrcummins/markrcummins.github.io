@@ -29,12 +29,12 @@
   },
   "interests": [
     {
-      "name": "Software Engineering",
+      "name": "Web Applications",
       "keywords": [
       ]
     },
     {
-      "name": "Automation",
+      "name": "Serverless Architecture",
       "keywords": [
       ]
     },
@@ -56,7 +56,9 @@
         "HTML/CSS",
         "MYSQL",
         "VueJS",
-        "Laravel"
+        "Laravel",
+        "Nativescript",
+        "Angular"
       ]
     },
     {
@@ -95,11 +97,12 @@
       "position": "Software Engineering Intern",
       "website": "https://turnoverbnb.com",
       "startDate": "2017-08-01",
-      "endDate": "Present",
+      "endDate": "2018-08-01",
       "summary": "Implemented features that improved the look and functionality of the application",
       "highlights": [
         "Implemented facebook review and email activation features on the main application",
-        "Developed entire political outreach application allowing users to find and communicate with their elected officials"
+        "Developed entire political outreach application allowing users to find and communicate with their elected officials",
+        "Created supplementary website that allowed users to contact their local city council to support legislation that favors vacation home rentals"
       ]
       },
     {
