@@ -6,7 +6,7 @@
     "email": "markrc@hawaii.edu",
     "phone": "808-728-4747",
     "website": "https://markrcummins.github.io",
-    "summary": "I am a recent graduate at the University of Hawaii at Manoa with a degree in Computer Science. At the moment, I'm having fun making projects with Vue.js and Laravel.",
+    "summary": "I am a recent graduate at the University of Hawaii at Manoa with a degree in Computer Science. Currently changing the way we think about distributed teams at Rendezview. Interests include web and mobile developments and using serverlss cloud based solutions for backends. Avialable for freelance work.",
     "location": {
       "address": " ",
       "postalCode": "96816",
@@ -92,6 +92,18 @@
     }
   ],
   "work": [
+    {
+      "company": "Rendezview",
+      "position": "Software Engineer",
+      "website": "https://www.rendezview.io/",
+      "startDate": "2018-12-15",
+      "endDate": "Present",
+      "summary": "Implemented and rolled out features towards a minimum viable product for early clients to beta test",
+      "highlights": [
+        "Utilized Google Firebase authentication to implment passwordless account sign",
+        "Developed workspace features so that users can collaborate with each other. Maximizing value from collaborative work and minimizing wasted time"
+      ]
+    },
     {
       "company": "TurnoverBnB",
       "position": "Software Engineering Intern",
